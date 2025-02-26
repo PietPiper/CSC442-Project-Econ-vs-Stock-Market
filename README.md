@@ -1,4 +1,7 @@
 # CSC442
+
+NOTE: Jupyter notebook no longer relevent. For 5b, "CSC_442_Team_Project_Data_Cleaning.ipynb" is the notebook file including our process for merging and cleaning the datasets.
+
 Economy VS Stock Market Data analysis
 
 Econ data set: https://www.kaggle.com/datasets/prasad22/global-economy-indicators
